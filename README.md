@@ -44,6 +44,12 @@ The To-do List in Hourglass is more user-friendly and functional than majority o
 
 The "Read" Tab is a dedicated tab for searching, gathering, and storing all the reading resources of the users through the app directly without having to switch to a web browser back and forth. It also helps manage or dedicate reading time to each and every individual reading resource. Besides this, it also lets the user know whether a particular reading resource is available online on Google Scholar or at GW Libraries (George Washington University Library Collection).
 
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%205.png?raw=true)
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%206.png?raw=true)
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%207.png?raw=true)
+
 ### 3. Timer
 
 It works in coherence with the "Read" Tab in order to record the total reading time taken by the user to finish reading a particular resource on the app. It is also designed to give a detailed analysis of work time so that the user can get a better insight of their schedules and plan better ahead. 
