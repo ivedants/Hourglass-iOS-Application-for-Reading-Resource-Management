@@ -56,6 +56,14 @@ It works in coherence with the "Read" Tab in order to record the total reading t
 
 ![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%204.png?raw=true)
 
+## 4. Login System
+
+The Login System of Hourglass works with Apple's Face ID and Touch ID features. This enables the users for quick log in into the app. We register our users and maintain their login credentials database using Google Firebase. 
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%208.png?raw=true)
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%209.png?raw=true)
+
 # Built With
 
 Hourglass has been built with the following tools:
