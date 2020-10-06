@@ -2,6 +2,8 @@
 
 Hourglass is an iOS application for helping students and staff in educational institutions access their academic libraries' reading resources online, plan and manage reading schedule all in one place using an integrated to-do list.
 
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%201.png?raw=true)
+
 ## Getting Started
 
 In order to give you a headstart about how the project looks like, we have added a file called "Hourglass Description Video.mp4" in this repository. Please make sure to check it out in order to have a quick insight of Hourglass. The "Hello, Hourglass!.mp4" video file is a sneak peak video of the app functions and interface. 
@@ -27,18 +29,26 @@ Hourglass has three main features:
 
 The To-do List in Hourglass is more user-friendly and functional than majority of the other apps of similar category in the App Store. It has 5 major differences than its competition which are as follows:
 1. **Categorize Lists by Color** - The user can add multiple lists of tasks inside the To-do list which are then color coded into various categories. For example, the user can assign red color to tasks such as Homework that require immediate action and yellow color to tasks that can be flexibly scheduled. 
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%203.png?raw=true)
+
 2. **Sort Lists by Time** - The user can sort these lists as per their specific time priorities. For example, if the list of Algorithms class homework needs more attention than the Structured Programming homework list, the user can simply drag these lists from their placeholders and set them as per their priority order. 
 3. **Priority Coloring** - Within all the lists, the tasks that have higher priority get a darker color shade within the list so to signify the user of the level of priority and immediate action that they require. 
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%202.png?raw=true)
+
 4. **Search Bar** - The Search Bar in the To-do List can be used to quickly find any list or any task saved within the app. 
 5. **Reminders** - Users can set reminders for each and every task within the to-do list so that they can get the app notifications accordingly. 
 
-### 2. "Read" Tab
+ ### 2. "Read" Tab
 
 The "Read" Tab is a dedicated tab for searching, gathering, and storing all the reading resources of the users through the app directly without having to switch to a web browser back and forth. It also helps manage or dedicate reading time to each and every individual reading resource. Besides this, it also lets the user know whether a particular reading resource is available online on Google Scholar or at GW Libraries (George Washington University Library Collection).
 
 ### 3. Timer
 
 It works in coherence with the "Read" Tab in order to record the total reading time taken by the user to finish reading a particular resource on the app. It is also designed to give a detailed analysis of work time so that the user can get a better insight of their schedules and plan better ahead. 
+
+![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%204.png?raw=true)
 
 # Built With
 
