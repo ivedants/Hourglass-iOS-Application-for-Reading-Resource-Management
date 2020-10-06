@@ -1,6 +1,6 @@
 # Hourglass
 
-Hourglass is an iOS application for helping students and staff in educational institutions access their academic libraries' reading resources online, plan and manage reading schedule all in one place using an integrated to-do list.
+Hourglass is an iOS application for helping students and staff in educational institutions access their academic libraries' reading resources online, plan and manage their reading schedules all in one place using an integrated to-do list.
 
 ![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%201.png?raw=true)
 
