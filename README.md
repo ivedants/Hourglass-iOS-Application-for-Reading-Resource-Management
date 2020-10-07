@@ -91,4 +91,4 @@ Hourglass has been built with the following tools:
 - Vedant Shrivastava (GitHub: https://github.com/ivedants ; Email: ivedantshrivastava@gmail.com)
 - Limin Wu (GitHub: https://github.com/limin2016 ; Email: 1466299085@qq.com)
 - Jin Yu (GitHub: https://github.com/JinYu0810 ; Email: yujin0810@outlook.com)
-- Junyun Zhao
+- Junyun Zhao (GitHub: https://github.com/G39680437 ; Email: zhaojunyun@gwu.edu)
