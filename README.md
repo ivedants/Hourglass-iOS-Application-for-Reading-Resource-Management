@@ -4,6 +4,18 @@ Hourglass is an iOS application for helping students and staff in educational in
 
 ![alt text](https://github.com/ivedants/Hourglass-iOS-Application-for-Reading-Resource-Management/blob/main/Screenshot%20-%201.png?raw=true)
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+- [Introduction](#introduction)
+- [Features](#features)
+   1. [To-do List](#1-to-do-list)
+   2. ["Read" Tab](#2-read-tab)
+   3. [Timer](#3-timer)
+   4. [Login System](#4-login-system)
+- [Built With](#built-with)
+
 ## Getting Started
 
 In order to give you a headstart about how the project looks like, we have added a file called "Hourglass Description Video.mp4" in this repository. Please make sure to check it out in order to have a quick insight of Hourglass. The "Hello, Hourglass!.mp4" video file is a sneak peak video of the app functions and interface. 
