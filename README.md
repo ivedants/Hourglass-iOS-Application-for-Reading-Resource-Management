@@ -35,7 +35,7 @@ Hourglass is an iOS application made majorly using Swift. Our purpose of making 
 ## Features
 
 Hourglass has three main features:
-1. To-do list for all kinds of academic, co-curricalar, or extra-curricular activities
+1. To-do list for all kinds of academic, co-curricular, or extra-curricular activities
 2. Reading tab for searching, gathering, and saving all your reading resources through the app directly without switching between the app and a web browser
 3. Timer to record the total reading time taken by the user for each reading resource
 
